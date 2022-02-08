@@ -1,4 +1,4 @@
-# finnomena_test_frontend
+# FINNOMENA_frontend
 
 ## Project setup
 ```
